@@ -1,10 +1,8 @@
-## Hi there 👋
+## 🌟 Hi, this is areenkh!
 
-## 🌟 Hi, I'm Areen Khalaila!
-
-🎓 Undergraduate Researcher at Brandeis University (CS & Physics)
-🧑‍🔬 Research on accessibility, data visualization, and HCI
-🐾 Love cats
+🎓 Undergraduate Researcher at Brandeis University (CS & Physics)  
+🧑‍🔬 Research on accessibility, data visualization, and HCI  
+❤️ Love cats and Arabic coffee  
 💻 More about me: [www.areenkh.com](https://www.areenkh.com)  
 
 ---
