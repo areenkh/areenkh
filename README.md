@@ -1,13 +1,13 @@
 ## 🌟 Hi, this is areenkh!
 
-🎓 Undergraduate Researcher at Brandeis University (CS & Physics)  
+🎓 PhD CS student at Brandeis University, formerly an undergraduate researcher at Brandeis University (CS & Physics)  
 🧑‍🔬 Research on accessibility, data visualization, and HCI  
 ❤️ Love cats and Arabic coffee  
 💻 More about me: [www.areenkh.com](https://www.areenkh.com)  
 <img src="/source.gif" alt="Cat GIF" width="380" height="300">    
 
 ## 💌 Let's Connect  
-📧 [areen.khalaila@gmail.com](mailto:areen.khalaila@gmail.com)  
+📧 [akhalaila@tulane.edu](mailto:akhalaila@tulane.edu)  
 🔗 [LinkedIn](https://www.linkedin.com/in/areenkh) | [GitHub](https://github.com/areenkh)
 
 
