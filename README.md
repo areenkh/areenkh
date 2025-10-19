@@ -1,6 +1,6 @@
 ## 🌟 Hi, this is areenkh!
 
-🎓 PhD CS student at Brandeis University, formerly an undergraduate researcher at Brandeis University (CS & Physics)  
+🎓 PhD CS student at Tulane University, formerly an undergraduate researcher at Brandeis University (CS & Physics)  
 🧑‍🔬 Research on accessibility, data visualization, and HCI  
 ❤️ Love cats and Arabic coffee  
 💻 More about me: [www.areenkh.com](https://www.areenkh.com)  
